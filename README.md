@@ -2,7 +2,7 @@
 - 👀 I’m interested in trading, coding & crypto
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me idk lmao
+- 📫 How to reach me comment on a repo
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have no fun fact
 
