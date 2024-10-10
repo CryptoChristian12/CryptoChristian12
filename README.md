@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CryptoChristian12
 - 👀 I’m interested in trading, coding & crypto
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, C++ and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me comment on a repo
 - 😄 Pronouns: He/him
